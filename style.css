@@ -1,0 +1,26 @@
+/* I'm really sorry - I'm not a css person at all */
+
+
+li {
+  font-family: 'Helvetica', cursive;
+  color: blue;
+}
+
+button{
+  color: white;
+  background-color: red;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  color: green;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
